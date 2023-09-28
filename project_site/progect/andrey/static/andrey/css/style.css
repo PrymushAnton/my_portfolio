@@ -1,0 +1,26 @@
+main {
+    content:'';
+    display:table;
+    clear:both;
+}
+
+main .content{
+    float: left;
+    max-width: 75%;
+    margin-right: 0%;
+}
+
+main .additionalInfo{
+    float: right;
+    width: 25%;
+}
+
+main h1 {
+    font-size: 220%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0%;
+}
+main .content p{
+    font-size: 125%;
+}
