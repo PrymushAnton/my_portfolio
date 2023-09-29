@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static 'main/css/style.css' %}">
+    <link rel="icon" href="{% static 'main/img/favicon.png' %}" type="image/x-icon">
     {% block link %}
     {% endblock %}
     <title>Моє портфоліо</title>
@@ -21,12 +22,9 @@
         {% block main %}
         {% endblock %}
     </main>
-    <script >
-        console.log(window.location.href)
-        if (window.location.href == "http://localhost:8000/" || window.location.href == 'http://127.0.0.1:8000/'){
-            let a = document.querySelector('.mainPage')
-            a.remove()
-        }
-    </script>
+    <footer>
+        {% block foother %}
+        {% endblock %}
+    </footer>
 </body>
 </html>

@@ -21,7 +21,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 3px solid #413700cb;
+    border-bottom: 3px solid #1d6804;
 }
 header h1{
     margin-left: 2%;
