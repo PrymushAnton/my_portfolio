@@ -6,8 +6,8 @@
 - [Tasks](#tasks)
 ## [Team Info](#team-info)
 - Team Member 1 Anton Prymush: [GitHub Profile](https://github.com/luny-06)
-- Team Member 2 Andrii: [GitHub Profile](https://github.com/GKAndrey)
-- Team Member 3 Mykhailo Fatuyev: [GitHub Profile](https://github.com/6040H0K)
+- Team Member 2 Andrii Druzhha: [GitHub Profile](https://github.com/GKAndrey)
+- Team Member 3 Mykhailo Fatuyev: [GitHub Profile](https://github.com/mishafat)
 - Team Member 4 Yaroslav Samchuk: [GitHub Profile](https://github.com/YaroslavSamchuk)
 
 ## [Description](#description)
