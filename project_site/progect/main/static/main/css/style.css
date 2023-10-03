@@ -30,7 +30,7 @@ header{
 header h1{
     margin: 7px;
     margin-left: 2%;
-    font-size: 5em;
+    font-size: 70px;
 }
 
 p{
@@ -46,11 +46,11 @@ a{
 
 header a{
     margin-right: 2%;
-    font-size: 4em;
+    font-size: 45px;
 }
 
 main{
-    font-size: 2em;
+    font-size: 30px;
 }
 
 iframe {
