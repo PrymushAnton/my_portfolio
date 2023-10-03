@@ -29,7 +29,7 @@ img {
     border: 2px solid #041368;
 }
 .foot, footer{
-    position: absolute;
+    position: fixed;
     text-align: right;
     left: 0;
     bottom: 0;
