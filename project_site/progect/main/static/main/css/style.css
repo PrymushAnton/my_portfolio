@@ -28,7 +28,9 @@ header{
     border-bottom: 3px solid #2f2f2f;
 }
 header h1{
+    margin: 7px;
     margin-left: 2%;
+    font-size: 5em;
 }
 
 p{
@@ -37,15 +39,19 @@ p{
 
 a{
     color: #faffe0;  
-    text-decoration: 0;
+    text-decoration: rgb(175, 174, 154) 4px dotted underline;
+
+    /* text-decoration: layer; */
 }
 
 header a{
     margin-right: 2%;
-    font-size: 200%;
+    font-size: 4em;
 }
 
-
+main{
+    font-size: 2em;
+}
 
 iframe {
     border-radius: 5%;
