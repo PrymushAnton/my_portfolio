@@ -3,6 +3,10 @@
     src: url('/static/main/font/font.otf') format('opentype');
 }
 
+*{
+    color: #faffe0;
+}
+
 html, body{
     height: 100%;
     width: 100%;
@@ -11,20 +15,22 @@ html, body{
     /* overflow: hidden; */
 }
 body{
-    background: linear-gradient(to left, #78cb98, #50d28b, #7cdca1);
+    background: linear-gradient(to left, #4e52b4, #5054d2, #3c41c7);
     background-repeat: repeat-y;
     display: inline-block;
     font-family: 'MyFont', sans-serif;
 }
 header{
-    background: #379683;
+    background: #777cff;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 3px solid #1d6804;
+    border-bottom: 3px solid #2f2f2f;
 }
 header h1{
+    margin: 7px;
     margin-left: 2%;
+    font-size: 5em;
 }
 
 p{
@@ -32,15 +38,20 @@ p{
 }
 
 a{
-    color: #05386B  ;
+    color: #faffe0;  
+    text-decoration: rgb(175, 174, 154) 4px dotted underline;
+
+    /* text-decoration: layer; */
 }
 
 header a{
     margin-right: 2%;
-    font-size: 200%;
+    font-size: 4em;
 }
 
-
+main{
+    font-size: 2em;
+}
 
 iframe {
     border-radius: 5%;

@@ -27,4 +27,5 @@ main div a{
     display: inline-block;
     text-align: center;
     width: 100%;
+    text-decoration: solid underline rgb(20, 49, 110) 4px;
 }
