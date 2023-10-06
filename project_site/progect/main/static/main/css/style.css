@@ -3,6 +3,37 @@
     src: url('/static/main/font/font.otf') format('opentype');
 }
 
+@keyframes gradient {
+	0% {
+		background-position: 0% 25%;
+	}
+    25% {
+		background-position: 25% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+    75% {
+		background-position: 50% 25%;
+	}
+	100% {
+		background-position: 0% 25%;
+	}
+}
+
+@keyframes GradientBackground {
+    0% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+
+    100% {
+      background-position: 0% 50%;
+    }
+}
 *{
     color: #faffe0;
 }
@@ -59,9 +90,20 @@ iframe {
 
 .block_div {
     text-align: center;
-    height: 200px;
+    position: relative;
+    min-height: 200px;
     box-shadow: 2px 2px 10px black;
     margin: 20px;
     font-size: 30px;
     border-radius: 10px;
+    display: inline-block;
+    background: linear-gradient(80deg, #1000FF, #8200FF, #EB00FF, #FF0090, #FF0000, #00FF50, #D0FF00, #FF0000);
+    background-size: 1600% 1600%;
+    animation: GradientBackground 25s ease infinite;
+    text-shadow: 0px 0px 10px black;
 }
+
+
+
+
+
