@@ -1,5 +1,4 @@
-
-#MishaEducation{
+p{
     /* font-size: 25px; */
     margin-left: 2%;
 }
@@ -15,11 +14,16 @@
 }
 
 #MishaHobby{
-    width: 15%;
+    width: 12%;
     margin-left: 5%;
 }
 
 #MishaLeisure{
     width: 20%;
+    margin-left: 5%;
+}
+
+#MishaProgramming{
+    width: 22%;
     margin-left: 5%;
 }
