@@ -104,4 +104,19 @@ List the libraries and technologies used in the project.
     - **Andrii** completed Task 14.
     - **Anton** reviewed and approved Task 14.
 
+- ##### [Task 15: Change style for site](#task-15-task-description)
+
+    - **Andrii** completed Task 15.
+    - **Anton** reviewed and approved Task 15.
+      
+- ##### [Task 16: Add more information in html files in app yaroslav](#task-16-task-description)
+
+    - **Yaroslav** completed Task 16.
+    - **Anton** reviewed and approved Task 16.
+
+- ##### [Task 17: Add more information in html files in app misha](#task-17-task-description)
+
+    - **Mykhailo** completed Task 17.
+    - **Anton** reviewed and approved Task 17.
+
 Completed during **[WorldIT Academy](https://www.worldit.academy/)** training.
